@@ -4,10 +4,17 @@
   height: 1007px;
   width: 10007px;
   position: relative;
-
+  overflow: hidden;
 }
 .mac-book-pro-14-1 * {
   box-sizing: border-box;
+}
+
+.content{
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  width: 100%;
 }
 
 .samiksha-sharan,
