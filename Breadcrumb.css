@@ -1,0 +1,39 @@
+ul.breadcrumb {
+    padding: 20px 30px;
+    list-style: none;
+    background-color: #202020;
+    color: #ffffff;
+    text-align: right;
+    font-family: "CabinetGrotesk-Bold", sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    position: absolute;
+    left: 1150px;
+    top: 20px;
+    width: 400px;
+    height: 36px;
+    display: inline-block;
+    background-color: #171716; 
+    color: white; 
+    border-radius: 5px; 
+    cursor: pointer; 
+    transition: background-color 0.3s ease;
+  }
+  
+  ul.breadcrumb li {
+    display: inline;
+    margin-right: 50px;
+    color: white;
+  }
+  
+  ul.breadcrumb li+li:before {
+    padding: 20px;
+    color: white;
+  }
+  ul.breadcrumb li a {color: #ffffff;}
+  
+  ul.breadcrumb li a:hover {
+    color: #A100FF;
+    text-decoration: underline;
+  }
+  
