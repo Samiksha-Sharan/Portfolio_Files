@@ -1,0 +1,336 @@
+.mac-book-pro-14-3,
+.mac-book-pro-14-5 {
+  background: #171716;
+  height: 850px;
+  position: relative;
+  overflow: hidden;
+}
+.mac-book-pro-14-3 * {
+  box-sizing: border-box;
+}
+.about {
+  color: #ffffff;
+  text-align: right;
+  font-family: "CabinetGrotesk-Bold", CabinetGrotest-Bold;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 974px;
+  top: 46px;
+  width: 351px;
+  height: 109px;
+}
+.contact {
+  color: #ffffff;
+  text-align: right;
+  font-family: "CabinetGrotesk-Bold", CabinetGrotesk-Bold;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 1111px;
+  top: 46px;
+  width: 351px;
+  height: 109px;
+}
+.wanna-work-together-let-s-chat {
+  color: #ffffff;
+  text-align: center;
+  font-family: "CabinetGrotesk-Bold", CabinetGrotesk-Bold;
+  font-size: 50px;
+  font-weight: 700;
+  position: absolute;
+  left: 290px;
+  top: 152px;
+  width: 931px;
+  height: 362px;
+}
+.home {
+  color: #ffffff;
+  text-align: right;
+  font-family: "CabinetGrotesk-Bold", CabinetGrotesk-Bold;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 856px;
+  top: 46px;
+  width: 351px;
+  height: 109px;
+}
+.samiksha-sharan {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CabinetGrotesk-Bold", CabinetGrotesk-Bold;
+  font-size: 25px;
+  font-weight: 700;
+  position: absolute;
+  left: 49px;
+  top: 46px;
+  width: 351px;
+  height: 109px;
+}
+.ellipse-3 {
+  background: #3d3d3d;
+  border-radius: 50%;
+  width: 54px;
+  height: 54px;
+  position: absolute;
+  left: 407px;
+  top: 728px;
+}
+.ellipse-4 {
+  background: #3d3d3d;
+  border-radius: 50%;
+  width: 54px;
+  height: 54px;
+  position: absolute;
+  left: 836px;
+  top: 728px;
+}
+.communication-mail {
+  width: 26px;
+  height: 26px;
+  position: absolute;
+  left: 421px;
+  top: 742px;
+  overflow: visible;
+}
+.group-1 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-7 {
+  border-radius: 7px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 2px;
+  width: 22px;
+  height: 22px;
+  position: absolute;
+  left: 852px;
+  top: 744px;
+}
+.ellipse-5 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 2px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+  left: 857px;
+  top: 749px;
+}
+.ellipse-6 {
+  background: #ffffff;
+  border-radius: 50%;
+  width: 2px;
+  height: 2px;
+  position: absolute;
+  left: 868px;
+  top: 748px;
+}
+input[type=text], select {
+  background: #202020;
+  width: 444px;
+  height: 54px;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border-radius: 20px;
+  box-sizing: border-box;
+  position: absolute;
+  left: 290px;
+  top: 286px;
+  border-radius:10px;
+  color: white; 
+}
+.rectangle-13 {
+  background: #202020;
+  border-radius: 20px;
+  width: 931px;
+  height: 182px;
+  position: absolute;
+  left: 290px;
+  top: 416px;
+}
+.name {
+  color: #a6a6a6;
+  text-align: left;
+  font-family: "CabinetGrotesk-Bold", sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  position: absolute;
+  left: 317px;
+  top: 304px;
+  width: 139px;
+  height: 37px;
+}
+.email-id {
+  color: #a6a6a6;
+  text-align: left;
+  font-family: "CabinetGrotesk-Bold", sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  position: absolute;
+  left: 802px;
+  top: 304px;
+  width: 273px;
+  height: 37px;
+}
+.name2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CabinetGrotesk-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 290px;
+  top: 252px;
+  width: 139px;
+  height: 37px;
+}
+.message {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CabinetGrotesk-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 290px;
+  top: 383px;
+  width: 139px;
+  height: 37px;
+}
+.samiksha-s {
+  color: #a6a6a6;
+  text-align: left;
+  font-family: "CabinetGrotesk-Bold", sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  position: absolute;
+  left: 917px;
+  top: 750px;
+  width: 188px;
+  height: 37px;
+}
+.samikshaa-sharan-gmail-com {
+  color: #a6a6a6;
+  text-align: left;
+  font-family: "CabinetGrotesk-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 488px;
+  top: 745px;
+  width: 363px;
+  height: 21px;
+}
+.email-id2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CabinetGrotesk-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 775px;
+  top: 252px;
+  width: 273px;
+  height: 37px;
+}
+.send {
+  color: #ffffff;
+  text-align: center;
+  font-family: "CabinetGrotesk-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 679px;
+  top: 662px;
+  width: 155px;
+  height: 25px;
+}
+input[type=submit] {
+  color: #A100FF;
+  text-align: center;
+  font-family: "CabinetGrotesk-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: relative;
+  left: 670px;
+  top: 615px;
+  width: 176px;
+  height: 47px;
+  background-color: #A100FF;
+   color: #FFFFFF;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: rounded;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #9500EB;
+}
+.contact-inputs{
+    padding: 14px 20px;
+    Flex-direction:colomun;
+    gap: 20px;
+    color: #202020;
+    text-align: left;
+    text-size-adjust: 10px;
+    background: #202020;
+    width: 444px;
+    height: 54px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border-radius: 20px;
+    box-sizing: border-box;
+    position: absolute;
+    left: 775px;
+    top: 286px;
+    border-radius:10px;
+    color: white; 
+    }
+
+.contact-inputs:focus{
+  border: 2px solid #ffffff;
+  }
+  .contact-inputs::placeholder{
+  color: #727272;
+  }
+  input2[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  }
+  .contact-inputs3{
+    Flex-direction: colomun;
+    gap: 20px;
+    color: #202020;
+    text-size-adjust: 10px;
+    background: #202020;
+    width: 931px;
+    height: 182px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border-radius: 20px;
+    box-sizing: border-box;
+    position: absolute;
+    left: 290px;
+    top: 408px;
+    border-radius:10px;
+    color: white;
+    resize: none;
+    
+  }
+  .contact-inputs3:focus{
+    border: 2px solid #ffffff;
+    }
+    .contact-inputs3::placeholder{
+    color: #727272;
+    }
+ 

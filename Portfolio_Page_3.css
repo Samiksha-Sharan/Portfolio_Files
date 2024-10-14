@@ -1,0 +1,298 @@
+.mac-book-pro-14-4,
+.mac-book-pro-14-5 {
+  background: #171716;
+  height: 4027px;
+  position: relative;
+  overflow: hidden;
+}
+.mac-book-pro-14-4 * {
+  box-sizing: border-box;
+}
+.home {
+  color: #ffffff;
+  text-align: right;
+  font-family: "CabinetGrotesk-Bold", CabinetGrotesk-Bold;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 856px;
+  top: 46px;
+  width: 351px;
+  height: 109px;
+}
+.about {
+  color: #ffffff;
+  text-align: right;
+  font-family: "CabinetGrotesk-Bold", CabinetGrotesk-Bold;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 974px;
+  top: 46px;
+  width: 351px;
+  height: 109px;
+}
+.contact {
+  color: #ffffff;
+  text-align: right;
+  font-family: "CabinetGrotesk-Bold", CabinetGrotesk-Bold;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 1111px;
+  top: 46px;
+  width: 351px;
+  height: 109px;
+}
+.pet-app {
+  color: #ffffff;
+  text-align: center;
+  font-family: "CabinetGrotesk-Bold", CabinetGrotesk-Bold;
+  font-size: 50px;
+  font-weight: 700;
+  position: absolute;
+  left: 437px;
+  top: 120px;
+  width: 638px;
+  height: 362px;
+}
+.low-fidelity-wireframes {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CabinetGrotesk-Bold", CabinetGrotesk-Bold;
+  font-size: 30px;
+  font-weight: 700;
+  position: absolute;
+  left: 202px;
+  top: 2148px;
+  width: 638px;
+  height: 362px;
+}
+.process {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CabinetGrotesk-Bold", CabinetGrotesk-Bold;
+  font-size: 30px;
+  font-weight: 700;
+  position: absolute;
+  left: 202px;
+  top: 1232px;
+  width: 638px;
+  height: 362px;
+}
+.about-the-project {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CabinetGrotesk-Bold", CabinetGrotesk-Bold;
+  font-size: 30px;
+  font-weight: 700;
+  position: absolute;
+  left: 202px;
+  top: 1050px;
+  width: 638px;
+  height: 362px;
+}
+.our-project-focuses-on-building-trust-between-pets-and-the-pet-parents-staff-and-vets-we-are-working-on-creating-an-app-which-provides-the-users-simple-and-easy-ways-to-build-trust-with-their-pets {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CabinetGrotesk-Regular", CabinetGrotesk-Bold;
+  font-size: 28px;
+  font-weight: 400;
+  position: absolute;
+  left: 202px;
+  top: 1100px;
+  width: 1123px;
+  height: 362px;
+}
+.high-fidelity-wireframes {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CabinetGrotesk-Bold", CabinetGrotesk-Bold;
+  font-size: 30px;
+  font-weight: 700;
+  position: absolute;
+  left: 202px;
+  top: 2900px;
+  width: 638px;
+  height: 362px;
+}
+.get-in-touch {
+  color: #ffffff;
+  text-align: center;
+  font-family: "CabinetGrotesk-Bold", CabinetGrotesk-Bold;
+  font-size: 50px;
+  font-weight: 700;
+  position: absolute;
+  left: 437px;
+  top: 3647px;
+  width: 638px;
+  height: 362px;
+}
+.samiksha-sharan {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CabinetGrotesk-Bold", CabinetGrotesk-Bold;
+  font-size: 25px;
+  font-weight: 700;
+  position: absolute;
+  left: 49px;
+  top: 46px;
+  width: 351px;
+  height: 109px;
+}
+.ellipse-3 {
+  background: #3d3d3d;
+  border-radius: 50%;
+  width: 54px;
+  height: 54px;
+  position: absolute;
+  left: 813px;
+  top: 3728px;
+}
+.ellipse-2 {
+  background: #3d3d3d;
+  border-radius: 50%;
+  width: 54px;
+  height: 54px;
+  position: absolute;
+  left: 645px;
+  top: 3728px;
+}
+.ellipse-4 {
+  background: #3d3d3d;
+  border-radius: 50%;
+  width: 54px;
+  height: 54px;
+  position: absolute;
+  left: 729px;
+  top: 3728px;
+}
+.communication-mail {
+  width: 26px;
+  height: 26px;
+  position: absolute;
+  left: 827px;
+  top: 3742px;
+  overflow: visible;
+}
+.group-1 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-7 {
+  border-radius: 7px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 2px;
+  width: 22px;
+  height: 22px;
+  position: absolute;
+  left: 745px;
+  top: 3744px;
+}
+.ellipse-5 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 2px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+  left: 750px;
+  top: 3749px;
+}
+.ellipse-6 {
+  background: #ffffff;
+  border-radius: 50%;
+  width: 2px;
+  height: 2px;
+  position: absolute;
+  left: 761px;
+  top: 3748px;
+}
+.group-2 {
+  position: absolute;
+  inset: 0;
+}
+.be {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CabinetGrotesk-Bold", sans-serif;
+  font-size: 25px;
+  font-weight: 700;
+  position: absolute;
+  left: 657px;
+  top: 3740px;
+  width: 52px;
+  height: 30px;
+}
+.line-1 {
+  margin-top: -2px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 2px 0 0 0;
+  width: 7px;
+  height: 0px;
+  position: absolute;
+  left: 677px;
+  top: 3747px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.mockup-ui-ux-1 {
+  border-radius: 20px;
+  width: 1123px;
+  height: 784px;
+  position: absolute;
+  left: 202px;
+  top: 220px;
+  object-fit: cover;
+}
+.image-36 {
+  width: 383px;
+  height: 807px;
+  position: absolute;
+  left: 202px;
+  top: 1296px;
+  object-fit: cover;
+}
+.image-37 {
+  width: 350px;
+  height: 800px;
+  position: absolute;
+  left: 605px;
+  top: 1299px;
+  object-fit: cover;
+}
+.image-38 {
+  width: 352px;
+  height: 389px;
+  position: absolute;
+  left: 975px;
+  top: 1299px;
+  object-fit: cover;
+}
+.image-39 {
+  width: 1123px;
+  height: 629px;
+  position: absolute;
+  left: 202px;
+  top: 2218px;
+  object-fit: cover;
+}
+.image-40 {
+  width: 1123px;
+  height: 632px;
+  position: absolute;
+  left: 202px;
+  top: 2968px;
+  object-fit: cover;
+}
+.image-45 {
+    width: 2000px;
+    height: 540px;
+    position:absolute;
+    left:400;
+    top:1018px;
+    object-fit:cover;
+}

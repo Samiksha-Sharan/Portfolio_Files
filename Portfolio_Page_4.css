@@ -1,0 +1,770 @@
+.mac-book-pro-14-2,
+.mac-book-pro-14-2 * {
+  box-sizing: border-box;
+}
+.mac-book-pro-14-2 {
+  background: #171716;
+  height: 2657px;
+  position: relative;
+  overflow: hidden;
+}
+.about {
+  color: #ffffff;
+  text-align: right;
+  font-family: "CabinetGrotesk-Bold", CabinetGrotesk-Bold;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 974px;
+  top: 46px;
+  width: 351px;
+  height: 109px;
+}
+.contact {
+  color: #ffffff;
+  text-align: right;
+  font-family: "CabinetGrotesk-Bold", CabinetGrotesk-Bold;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 1111px;
+  top: 46px;
+  width: 351px;
+  height: 109px;
+}
+.hi-i-m-samiksha-sharan {
+  color: #ffffff;
+  text-align: left;
+  position: absolute;
+  left: 437px;
+  top: 190px;
+  width: 638px;
+  height: 362px;
+}
+.hi-i-m-samiksha-sharan-span {
+  color: #ffffff;
+  font-family: "CabinetGrotesk-Bold", CabinetGrotesk-Bold;
+  font-size: 50px;
+  font-weight: 700;
+}
+.hi-i-m-samiksha-sharan-span2 {
+  color: #ffffff;
+  font-family: "CabinetGrotesk-Bold", CabinetGrotesk-Bold;
+  font-size: 69px;
+  font-weight: 700;
+  word-wrap: normal;
+}
+.get-in-touch {
+  color: #ffffff;
+  text-align: center;
+  font-family: "CabinetGrotesk-Bold", CabinetGrotesk-Bold;
+  font-size: 50px;
+  font-weight: 700;
+  position: absolute;
+  left: 437px;
+  top: 2453px;
+  width: 638px;
+  height: 362px;
+}
+.i-m-an-interaction-designer {
+  color: #ffffff;
+  text-align: center;
+  font-family: "CabinetGrotesk-Regular", CabinetGrotesk-Bold;
+  font-size: 25px;
+  font-weight: 400;
+  position: absolute;
+  left: 409px;
+  top: 380px;
+  width: 723px;
+  height: 362px;
+}
+.img-20240430-wa-0014-1 {
+  border-radius: 20px;
+  width: 295px;
+  height: 392px;
+  position: absolute;
+  left: 609px;
+  top: 630px; 
+  object-fit: cover;
+  Border: 50px;
+  border-color: #202020;
+  border-radius: 20px 40px;
+}
+.home {
+  color: #ffffff;
+  text-align: right;
+  font-family: "CabinetGrotesk-Bold", CabinetGrotesk-Bold;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 856px;
+  top: 46px;
+  width: 351px;
+  height: 109px;
+}
+.rectangle-12 {
+  background: #202020;
+  border-radius: 30px;
+  width: 931px;
+  height: 389px;
+  position: absolute;
+  left: 290px;
+  top: 1518px;
+}
+.tools {
+  color: #a6a6a6;
+  text-align: left;
+  font-family: "CabinetGrotesk-Bold", CabinetGrotesk-Bold;
+  font-size: 30px;
+  font-weight: 700;
+  position: absolute;
+  left: 368px;
+  top: 1557px;
+  width: 127px;
+  height: 37px;
+}
+.rectangle-33 {
+  background: #202020;
+  border-radius: 30px;
+  width: 931px;
+  height: 306px;
+  position: absolute;
+  left: 290px;
+  top: 1126px;
+}
+.skills {
+  color: #a6a6a6;
+  text-align: left;
+  font-family: "CabinetGrotesk-Bold", CabinetGrotesk-Bold;
+  font-size: 30px;
+  font-weight: 700;
+  position: absolute;
+  left: 368px;
+  top: 1165px;
+  width: 127px;
+  height: 37px;
+}
+.rectangle-31 {
+  background: #202020;
+  border-radius: 30px;
+  width: 931px;
+  height: 379px;
+  position: absolute;
+  left: 290px;
+  top: 1988px;
+}
+.education {
+  color: #a6a6a6;
+  text-align: left;
+  font-family: "CabinetGrotesk-Bold", CabinetGrotesk-Bold;
+  font-size: 30px;
+  font-weight: 700;
+  position: absolute;
+  left: 368px;
+  top: 2027px;
+  width: 188px;
+  height: 37px;
+}
+.rectangle-13 {
+  border-radius: 15px;
+  border-style: solid;
+  border-color: #a6a6a6;
+  border-width: 3px;
+  width: 49px;
+  height: 49px;
+  position: absolute;
+  left: 368px;
+  top: 1617px;
+}
+.ps {
+  color: #a6a6a6;
+  text-align: left;
+  font-family: "CabinetGrotesk-Bold", CabinetGrotesk-Bold;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 382px;
+  top: 1630px;
+  width: 27px;
+  height: 26px;
+}
+.adobe-photoshop {
+  color: #a6a6a6;
+  text-align: left;
+  font-family: "CabinetGrotesk-Bold", CabinetGrotesk-Bold;
+  font-size: 15px;
+  font-weight: 700;
+  position: absolute;
+  left: 427px;
+  top: 1624px;
+  width: 157px;
+  height: 36px;
+}
+.pes-university {
+  color: #a6a6a6;
+  text-align: left;
+  font-family: "CabinetGrotesk-Bold", CabinetGrotesk-Bold;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 425px;
+  top: 2103px;
+  width: 180px;
+  height: 36px;
+}
+.ui-ux-design {
+  color: #a6a6a6;
+  text-align: left;
+  font-family: "CabinetGrotesk-Bold", CabinetGrotesk-Bold;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 420px;
+  top: 1222px;
+  width: 180px;
+  height: 36px;
+}
+.user-research-interface-design-design-system-prototyping {
+  color: #a6a6a6;
+  text-align: left;
+  font-family: "CabinetGrotesk-Regular", CabinetGrotesk-Bold;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 420px;
+  top: 1268px;
+  width: 180px;
+  height: 104px;
+}
+.graphic-design-branding {
+  color: #a6a6a6;
+  text-align: left;
+  font-family: "CabinetGrotesk-Bold", CabinetGrotesk-Bold;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 643px;
+  top: 1222px;
+  width: 238px;
+  height: 36px;
+}
+.typography-logo-design-brand-guidelines-digital-print-assents {
+  color: #a6a6a6;
+  text-align: left;
+  font-family: "CabinetGrotesk-Regular", CabinetGrotesk-Bold;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 643px;
+  top: 1272px;
+  width: 182px;
+  height: 104px;
+}
+.product-design {
+  color: #a6a6a6;
+  text-align: left;
+  font-family: "CabinetGrotesk-Bold", CabinetGrotesk-Bold;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 917px;
+  top: 1222px;
+  width: 205px;
+  height: 36px;
+}
+.design-thinking-blueprinting-concept-development-model-prototype {
+  color: #a6a6a6;
+  text-align: left;
+  font-family: "CabinetGrotesk-Regular", CabinetGrotesk-Bold;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 917px;
+  top: 1272px;
+  width: 182px;
+  height: 104px;
+}
+.bachelor-s-of-design-b-des-2022-2026 {
+  color: #a6a6a6;
+  text-align: left;
+  font-family: "CabinetGrotesk-Regular", CabinetGrotesk-Bold;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 425px;
+  top: 2133px;
+  width: 232px;
+  height: 36px;
+}
+.percent4 {
+  color: #a6a6a6;
+  text-align: right;
+  font-family: "CabinetGrotesk-Bold", CabinetGrotesk-Bold;
+  font-size: 13px;
+  font-weight: 700;
+  position: absolute;
+  left: 530px;
+  top: 1626px;
+  width: 157px;
+  height: 36px;
+}
+.rectangle-14 {
+  background: #d9d9d9;
+  border-radius: 36px;
+  width: 260px;
+  height: 9px;
+  position: absolute;
+  left: 427px;
+  top: 1645px;
+}
+.rectangle-15 {
+  background: #a100ff;
+  border-radius: 36px;
+  width: 232px;
+  height: 9px;
+  position: absolute;
+  left: 427px;
+  top: 1645px;
+  box-shadow: inset 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.rectangle-19 {
+  border-radius: 15px;
+  border-style: solid;
+  border-color: #a6a6a6;
+  border-width: 3px;
+  width: 49px;
+  height: 49px;
+  position: absolute;
+  left: 368px;
+  top: 1702px;
+}
+.ae {
+  color: #a6a6a6;
+  text-align: left;
+  font-family: "CabinetGrotesk-Bold", CabinetGrotesk-Bold;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 381px;
+  top: 1714px;
+  width: 27px;
+  height: 26px;
+}
+.adobe-after-effects {
+  color: #a6a6a6;
+  text-align: left;
+  font-family: "CabinetGrotesk-Bold", CabinetGrotesk-Bold;
+  font-size: 15px;
+  font-weight: 700;
+  position: absolute;
+  left: 427px;
+  top: 1709px;
+  width: 157px;
+  height: 36px;
+}
+.percent3 {
+  color: #a6a6a6;
+  text-align: right;
+  font-family: "CabinetGrotesk-Bold", CabinetGrotesk-Bold;
+  font-size: 13px;
+  font-weight: 700;
+  position: absolute;
+  left: 530px;
+  top: 1711px;
+  width: 157px;
+  height: 36px;
+}
+.rectangle-20 {
+  background: #d9d9d9;
+  border-radius: 36px;
+  width: 260px;
+  height: 9px;
+  position: absolute;
+  left: 427px;
+  top: 1730px;
+}
+.rectangle-21 {
+  background: #a100ff;
+  border-radius: 36px;
+  width: 192px;
+  height: 9px;
+  position: absolute;
+  left: 427px;
+  top: 1730px;
+  box-shadow: inset 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.rectangle-16 {
+  border-radius: 15px;
+  border-style: solid;
+  border-color: #a6a6a6;
+  border-width: 3px;
+  width: 49px;
+  height: 49px;
+  position: absolute;
+  left: 800px;
+  top: 1617px;
+}
+.rectangle-22 {
+  border-radius: 15px;
+  border-style: solid;
+  border-color: #a6a6a6;
+  border-width: 3px;
+  width: 49px;
+  height: 49px;
+  position: absolute;
+  left: 800px;
+  top: 1702px;
+}
+.rectangle-28 {
+  border-radius: 15px;
+  border-style: solid;
+  border-color: #a6a6a6;
+  border-width: 3px;
+  width: 49px;
+  height: 49px;
+  position: absolute;
+  left: 368px;
+  top: 1787px;
+}
+.image-2 {
+  width: 18px;
+  height: 26px;
+  position: absolute;
+  left: 384px;
+  top: 1799px;
+  object-fit: cover;
+}
+.ai {
+  color: #a6a6a6;
+  text-align: left;
+  font-family: "CabinetGrotesk-Bold", CabinetGrotesk-Bold;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 815px;
+  top: 1630px;
+  width: 27px;
+  height: 26px;
+}
+.adobe-illustrator {
+  color: #a6a6a6;
+  text-align: left;
+  font-family: "CabinetGrotesk-Bold", CabinetGrotesk-Bold;
+  font-size: 15px;
+  font-weight: 700;
+  position: absolute;
+  left: 859px;
+  top: 1624px;
+  width: 157px;
+  height: 36px;
+}
+.percent2 {
+  color: #a6a6a6;
+  text-align: right;
+  font-family: "CabinetGrotesk-Bold", CabinetGrotesk-Bold;
+  font-size: 13px;
+  font-weight: 700;
+  position: absolute;
+  left: 962px;
+  top: 1626px;
+  width: 157px;
+  height: 36px;
+}
+.rectangle-17 {
+  background: #d9d9d9;
+  border-radius: 36px;
+  width: 260px;
+  height: 9px;
+  position: absolute;
+  left: 859px;
+  top: 1645px;
+}
+.rectangle-18 {
+  background: #a100ff;
+  border-radius: 36px;
+  width: 232px;
+  height: 9px;
+  position: absolute;
+  left: 859px;
+  top: 1645px;
+  box-shadow: inset 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.adobe-illustrator2 {
+  color: #a6a6a6;
+  text-align: left;
+  font-family: "CabinetGrotesk-Bold", CabinetGrotesk-Bold;
+  font-size: 15px;
+  font-weight: 700;
+  position: absolute;
+  left: 427px;
+  top: 1794px;
+  width: 157px;
+  height: 36px;
+}
+.percent1 {
+  color: #a6a6a6;
+  text-align: right;
+  font-family: "CabinetGrotesk-Bold", CabinetGrotesk-Bold;
+  font-size: 13px;
+  font-weight: 700;
+  position: absolute;
+  left: 530px;
+  top: 1796px;
+  width: 157px;
+  height: 36px;
+}
+.rectangle-29 {
+  background: #d9d9d9;
+  border-radius: 36px;
+  width: 260px;
+  height: 9px;
+  position: absolute;
+  left: 427px;
+  top: 1815px;
+}
+.rectangle-30 {
+  background: #a100ff;
+  border-radius: 36px;
+  width: 232px;
+  height: 9px;
+  position: absolute;
+  left: 427px;
+  top: 1815px;
+  box-shadow: inset 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.sketch-up {
+  color: #a6a6a6;
+  text-align: left;
+  font-family: "CabinetGrotesk-Bold", CabinetGrotesk-Bold;
+  font-size: 15px;
+  font-weight: 700;
+  position: absolute;
+  left: 859px;
+  top: 1709px;
+  width: 157px;
+  height: 36px;
+}
+.percent {
+  color: #a6a6a6;
+  text-align: right;
+  font-family: "CabinetGrotesk-Bold", CabinetGrotesk-Bold;
+  font-size: 13px;
+  font-weight: 700;
+  position: absolute;
+  left: 962px;
+  top: 1711px;
+  width: 157px;
+  height: 36px;
+}
+.rectangle-23 {
+  background: #d9d9d9;
+  border-radius: 36px;
+  width: 260px;
+  height: 9px;
+  position: absolute;
+  left: 859px;
+  top: 1730px;
+}
+.rectangle-24 {
+  background: #a100ff;
+  border-radius: 36px;
+  width: 187px;
+  height: 9px;
+  position: absolute;
+  left: 859px;
+  top: 1730px;
+  box-shadow: inset 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.image-1 {
+  width: 29px;
+  height: 33px;
+  position: absolute;
+  left: 810px;
+  top: 1710px;
+  object-fit: cover;
+}
+.samiksha-sharan {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CabinetGrotesk-Bold", CabinetGrotesk-Bold;
+  font-size: 25px;
+  font-weight: 700;
+  position: absolute;
+  left: 49px;
+  top: 46px;
+  width: 351px;
+  height: 109px;
+}
+.rectangle-32 {
+  background: #d9d9d9;
+  border-radius: 16px;
+  width: 2px;
+  height: 169px;
+  position: absolute;
+  left: 404px;
+  top: 2111px;
+}
+.ellipse-7 {
+  background: #ffffff;
+  border-radius: 50%;
+  width: 15px;
+  height: 15px;
+  position: absolute;
+  left: 397px;
+  top: 2107px;
+}
+.ellipse-8 {
+  background: #ffffff;
+  border-radius: 50%;
+  width: 15px;
+  height: 15px;
+  position: absolute;
+  left: 397px;
+  top: 2213px;
+}
+.deeksha-pu-college {
+  color: #a6a6a6;
+  text-align: left;
+  font-family: "CabinetGrotesk-Bold", CabinetGrotesk-Bold;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 425px;
+  top: 2209px;
+  width: 180px;
+  height: 36px;
+}
+._11-th-12-th-2020-2022 {
+  color: #a6a6a6;
+  text-align: left;
+  font-family: "CabinetGrotesk-Regular", CabinetGrotesk-Bold;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 425px;
+  top: 2239px;
+  width: 232px;
+  height: 36px;
+}
+.ellipse-3 {
+  background: #3d3d3d;
+  border-radius: 50%;
+  width: 54px;
+  height: 54px;
+  position: absolute;
+  left: 813px;
+  top: 2544px;
+}
+.ellipse-2 {
+  background: #3d3d3d;
+  border-radius: 50%;
+  width: 54px;
+  height: 54px;
+  position: absolute;
+  left: 645px;
+  top: 2544px;
+}
+.ellipse-4 {
+  background: #3d3d3d;
+  border-radius: 50%;
+  width: 54px;
+  height: 54px;
+  position: absolute;
+  left: 729px;
+  top: 2544px;
+}
+.communication-mail {
+  width: 26px;
+  height: 26px;
+  position: absolute;
+  left: 827px;
+  top: 2558px;
+  overflow: visible;
+}
+.group-1 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-7 {
+  border-radius: 7px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 2px;
+  width: 22px;
+  height: 22px;
+  position: absolute;
+  left: 745px;
+  top: 2560px;
+}
+.ellipse-5 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 2px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+  left: 750px;
+  top: 2565px;
+}
+.ellipse-6 {
+  background: #ffffff;
+  border-radius: 50%;
+  width: 2px;
+  height: 2px;
+  position: absolute;
+  left: 761px;
+  top: 2564px;
+}
+.group-2 {
+  position: absolute;
+  inset: 0;
+}
+.be {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CabinetGrotesk-Bold", CabinetGrotesk-Bold;
+  font-size: 25px;
+  font-weight: 700;
+  position: absolute;
+  left: 657px;
+  top: 2556px;
+  width: 52px;
+  height: 30px;
+}
+.line-1 {
+  margin-top: -2px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 2px 0 0 0;
+  width: 7px;
+  height: 0px;
+  position: absolute;
+  left: 677px;
+  top: 2565px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+input[type=submit] {
+  color: #A100FF;
+  text-align: center;
+  font-family: "CabinetGrotesk-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: relative;
+  left: 670px;
+  top: 645px;
+  width: 176px;
+  height: 42px;
+  background-color: #A100FF;
+   color: #FFFFFF;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: rounded;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #9500EB;
+}

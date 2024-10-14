@@ -1,0 +1,520 @@
+.mac-book-pro-14-5,
+.mac-book-pro-14-5 {
+  background: #171716;
+  height: 1467px;
+  position: relative;
+  overflow: hidden;
+}
+.mac-book-pro-14-5 * {
+  box-sizing: border-box;
+}
+
+.samiksha-sharan {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CabinetGrotesk-Bold", sans-serif;
+  font-size: 25px;
+  font-weight: 700;
+  position: absolute;
+  left: 49px;
+  top: 46px;
+  width: 351px;
+  height: 109px;
+}
+  .set1 {
+   text-align: left;
+   font-family: "CabinetGrotesk-Bold", sans-serif;
+   font-size: 70px;
+   font-weight: 700;
+   position: absolute;
+   left: 126px;
+   top: 224px;
+   width: 1259px;
+   height: 362px;
+ }
+ .set2 {
+   color: #5d5c5b;
+   font-family: "CabinetGrotesk-Bold", sans-serif;
+   font-size: 70px;
+   font-weight: 700;
+ }
+ .set3 {
+   color: #ffffff;
+   font-family: "CabinetGrotesk-Bold", sans-serif;
+   font-size: 70px;
+   font-weight: 700;
+ }
+ .set4 {
+   color: #5d5c5b;
+   font-family: "CabinetGrotesk-Bold", sans-serif;
+   font-size: 70px;
+   font-weight: 700;
+ }
+ .set5 {
+   color: #ffffff;
+   font-family: "CabinetGrotesk-Bold", sans-serif;
+   font-size: 70px;
+   font-weight: 700;
+ }
+ .set6 {
+   color: #5d5c5b;
+   font-family: "CabinetGrotesk-Bold", sans-serif;
+   font-size: 70px;
+   font-weight: 700;
+ }
+ .set7 {
+   color: #ffffff;
+   font-family: "CabinetGrotesk-Bold", sans-serif;
+   font-size: 70px;
+   font-weight: 700;
+ } 
+.ellipse-3 {
+  background: #3d3d3d;
+  border-radius: 50%;
+  width: 54px;
+  height: 54px;
+  position: absolute;
+  left: 264px;
+  top: 546px;
+}
+.ellipse-2 {
+  background: #3d3d3d;
+  border-radius: 50%;
+  width: 54px;
+  height: 54px;
+  position: absolute;
+  left: 126px;
+  top: 546px;
+}
+.ellipse-4 {
+  background: #3d3d3d;
+  border-radius: 50%;
+  width: 54px;
+  height: 54px;
+  position: absolute;
+  left: 195px;
+  top: 546px;
+}
+.communication-mail {
+  width: 26px;
+  height: 26px;
+  position: absolute;
+  left: 278px;
+  top: 560px;
+  overflow: visible;
+}
+.group-1 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-7 {
+  border-radius: 7px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 2px;
+  width: 22px;
+  height: 22px;
+  position: absolute;
+  left: 211px;
+  top: 562px;
+}
+.ellipse-5 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 2px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+  left: 216px;
+  top: 567px;
+}
+.ellipse-6 {
+  background: #ffffff;
+  border-radius: 50%;
+  width: 2px;
+  height: 2px;
+  position: absolute;
+  left: 227px;
+  top: 566px;
+}
+.group-2 {
+  position: absolute;
+  inset: 0;
+}
+.be {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CabinetGrotesk-Bold", sans-serif;
+  font-size: 25px;
+  font-weight: 700;
+  position: absolute;
+  left: 137px;
+  top: 558px;
+  width: 52px;
+  height: 30px;
+}
+.line-1 {
+  margin-top: -2px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 2px 0 0 0;
+  width: 7px;
+  height: 0px;
+  position: absolute;
+  left: 157px;
+  top: 567px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.rectangle-10 {
+  background: #3d3d3d;
+  border-radius: 30px;
+  width: 425px;
+  height: 475px;
+  position: absolute;
+  left: 71px;
+  top: 690px;
+}
+.rectangle-11 {
+  background: #202020;
+  border-radius: 30px;
+  width: 715px;
+  height: 62px;
+  position: absolute;
+  left: 402px;
+  top: 102px;
+}
+.rectangle-12 {
+  background: #3d3d3d;
+  border-radius: 30px;
+  width: 82px;
+  height: 33px;
+  position: absolute;
+  left: 513px;
+  top: 116px;
+}
+.an-app-to-help-pet-owners-vets-and-staff-connect-better-and-build-trust-with-the-pets {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CabinetGrotesk-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 85px;
+  top: 1088px;
+  width: 393px;
+  height: 46px;
+}
+.all {
+  color: #a6a6a6;
+  text-align: center;
+  font-family: "CabinetGrotesk-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 470px;
+  top: 122px;
+  width: 24px;
+  height: 37px;
+}
+.graphic-design {
+  color: #a6a6a6;
+  text-align: center;
+  font-family: "CabinetGrotesk-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 615px;
+  top: 121px;
+  width: 144px;
+  height: 37px;
+}
+.product-design {
+  color: #a6a6a6;
+  text-align: center;
+  font-family: "CabinetGrotesk-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 792px;
+  top: 122px;
+  width: 144px;
+  height: 37px;
+}
+.branding {
+  color: #a6a6a6;
+  text-align: center;
+  font-family: "CabinetGrotesk-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 971px;
+  top: 123px;
+  width: 85px;
+  height: 37px;
+}
+.ui-ux {
+  color: #a6a6a6;
+  text-align: center;
+  font-family: "CabinetGrotesk-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 528px;
+  top: 122px;
+  width: 53px;
+  height: 37px;
+}
+.pet-app {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CabinetGrotesk-Bold", sans-serif;
+  font-size: 25px;
+  font-weight: 700;
+  position: absolute;
+  left: 87px;
+  top: 1052px;
+  width: 351px;
+  height: 46px;
+}
+.feb-2024 {
+  color: #a6a6a6;
+  text-align: left;
+  font-family: "CabinetGrotesk-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 383px;
+  top: 1060px;
+  width: 105px;
+  height: 37px;
+}
+.mockup-ui-ux-1 {
+  border-radius: 20px;
+  width: 397px;
+  height: 324px;
+  position: absolute;
+  left: 85px;
+  top: 708px;
+  object-fit: cover;
+}
+.rectangle-14 {
+  background: #3d3d3d;
+  border-radius: 30px;
+  width: 425px;
+  height: 475px;
+  position: absolute;
+  left: 1015px;
+  top: 690px;
+}
+.rectangle-15 {
+  background: #3d3d3d;
+  border-radius: 30px;
+  width: 425px;
+  height: 475px;
+  position: absolute;
+  left: 543px;
+  top: 690px;
+}
+.internshala-case-study {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CabinetGrotesk-Bold", sans-serif;
+  font-size: 25px;
+  font-weight: 700;
+  position: absolute;
+  left: 1033px;
+  top: 1051px;
+  width: 351px;
+}
+.may-2024 {
+  color: #a6a6a6;
+  text-align: left;
+  font-family: "CabinetGrotesk-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 1321px;
+  top: 1060px;
+  width: 105px;
+  height: 37px;
+}
+.smart-door {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CabinetGrotesk-Bold", sans-serif;
+  font-size: 25px;
+  font-weight: 700;
+  position: absolute;
+  left: 559px;
+  top: 1051px;
+  width: 351px;
+  height: 46px;
+}
+.feb-20242 {
+  color: #a6a6a6;
+  text-align: left;
+  font-family: "CabinetGrotesk-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 855px;
+  top: 1060px;
+  width: 105px;
+  height: 37px;
+}
+.a-door-digitalisation-project-which-helps-improve-the-functionality-of-the-door {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CabinetGrotesk-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 557px;
+  top: 1087px;
+  width: 393px;
+  height: 46px;
+}
+.a-usability-case-study-on-internshala-that-identifies-pain-points-and-offers-insights-for-enhancing-the-user-experience {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CabinetGrotesk-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 1033px;
+  top: 1087px;
+  width: 393px;
+  height: 66px;
+}
+.mockup-outside-3-1-1 {
+  border-radius: 20px;
+  width: 397px;
+  height: 324px;
+  position: absolute;
+  left: 557px;
+  top: 708px;
+  object-fit: cover;
+}
+.image-34 {
+  border-radius: 20px;
+  width: 397px;
+  height: 326px;
+  position: absolute;
+  left: 1029px;
+  top: 706px;
+  object-fit: cover;
+}
+.get-in-touch {
+  color: #ffffff;
+  text-align: center;
+  font-family: "CabinetGrotesk-Bold", sans-serif;
+  font-size: 50px;
+  font-weight: 700;
+  position: absolute;
+  left: 416px;
+  top: 1240px;
+  width: 638px;
+  height: 362px;
+}
+.ellipse-52 {
+  background: #3d3d3d;
+  border-radius: 50%;
+  width: 54px;
+  height: 54px;
+  position: absolute;
+  left: 792px;
+  top: 1331px;
+}
+.ellipse-62 {
+  background: #3d3d3d;
+  border-radius: 50%;
+  width: 54px;
+  height: 54px;
+  position: absolute;
+  left: 624px;
+  top: 1331px;
+}
+.ellipse-7 {
+  background: #3d3d3d;
+  border-radius: 50%;
+  width: 54px;
+  height: 54px;
+  position: absolute;
+  left: 708px;
+  top: 1331px;
+}
+.communication-mail2 {
+  width: 26px;
+  height: 26px;
+  position: absolute;
+  left: 806px;
+  top: 1345px;
+  overflow: visible;
+}
+.group-3 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-72 {
+  border-radius: 7px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 2px;
+  width: 22px;
+  height: 22px;
+  position: absolute;
+  left: 724px;
+  top: 1347px;
+}
+.ellipse-53 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 2px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+  left: 729px;
+  top: 1352px;
+}
+.ellipse-63 {
+  background: #ffffff;
+  border-radius: 50%;
+  width: 2px;
+  height: 2px;
+  position: absolute;
+  left: 740px;
+  top: 1351px;
+}
+.group-4 {
+  position: absolute;
+  inset: 0;
+}
+.be2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "CabinetGrotesk-Bold", sans-serif;
+  font-size: 25px;
+  font-weight: 700;
+  position: absolute;
+  left: 636px;
+  top: 1343px;
+  width: 52px;
+  height: 30px;
+}
+.line-12 {
+  margin-top: -2px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 2px 0 0 0;
+  width: 7px;
+  height: 0px;
+  position: absolute;
+  left: 656px;
+  top: 1352px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+
